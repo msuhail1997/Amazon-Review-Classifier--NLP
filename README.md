@@ -6,7 +6,7 @@
 
 -The models implemented were
   - LogReg
-  - Self Attention with LSTM, BiLSTM, GRU, RNN \
+  - Self Attention with LSTM, BiLSTM, GRU, RNN.
   
   
   ![](Self.png)
