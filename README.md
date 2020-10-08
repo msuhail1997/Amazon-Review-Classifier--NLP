@@ -18,9 +18,9 @@
   - BERT models (RoBERTa and DistilBERT)
   - Seq2Seq encoder-decoder model
   
-  ![](confself.PNG) \
-  ![](roberta.PNG) \
-  ![](distilbert.PNG) \
+  ![](confself.PNG =250x250) \
+  ![](roberta.PNG =250x250) \
+  ![](distilbert.PNG =250x250) \
   ![](selfgraph.PNG) \
   
 
