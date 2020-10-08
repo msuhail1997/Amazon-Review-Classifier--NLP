@@ -9,7 +9,7 @@
   - Self Attention with LSTM, BiLSTM, GRU, RNN
   
   
-  ![](Self attention.png =250x250)
+  ![Screenshot](Self attention.png =250x250)
 
   
   
