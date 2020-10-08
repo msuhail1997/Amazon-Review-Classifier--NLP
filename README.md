@@ -9,7 +9,7 @@
   - Self Attention with LSTM, BiLSTM, GRU, RNN
   
   
-  ![](Self attention.png)
+  ![](Self attention confusion.PNG)
 
   
   
