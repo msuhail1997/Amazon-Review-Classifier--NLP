@@ -7,7 +7,11 @@
 -The models implemented were
   - LogReg
   - Self Attention with LSTM, BiLSTM, GRU, RNN
+  
+  
   ![](Self attention.png)
+  
+  
   - BERT models (RoBERTa and DistilBERT)
   - Seq2Seq encoder-decoder model
   
