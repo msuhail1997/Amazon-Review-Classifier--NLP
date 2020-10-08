@@ -16,17 +16,17 @@
   
   
   - BERT models (RoBERTa and DistilBERT)
-  - Seq2Seq encoder-decoder model \ 
+  - Seq2Seq encoder-decoder model 
   
-  Self Attention Confusion Matrix \
+  Self Attention Confusion Matrix 
   
-  ![](confself.PNG) \
+  ![](confself.PNG) 
   
-  RoBERTa Confusion Matrix \
+  RoBERTa Confusion Matrix 
   
-  ![](roberta.PNG) \
+  ![](roberta.PNG) 
   
-  DistilBERT Matrix \
+  DistilBERT Matrix 
   
   ![](distilbert.PNG)
   
