@@ -10,7 +10,7 @@
   
   
   ![](Self.png)
-  ![](confself.png)
+  ![](confself.PNG)
 
   
   
