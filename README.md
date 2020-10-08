@@ -17,11 +17,13 @@
   
   - BERT models (RoBERTa and DistilBERT)
   - Seq2Seq encoder-decoder model
+  Self Attention Confusion Matrix
+  ![](confself.PNG) \
+  RoBERTa Confusion Matrix
+  ![](roberta.PNG) \
+  DistilBERT Matrix
+  ![](distilbert.PNG) \
   
-  ![](confself.PNG =250x250) \
-  ![](roberta.PNG =250x250) \
-  ![](distilbert.PNG =250x250) \
-  ![](selfgraph.PNG) \
   
 
   
