@@ -11,13 +11,17 @@
   
   ![](Self.png)
   
-  ![](confself.PNG) \
-  ![](selfgraph.PNG)
+
 
   
   
   - BERT models (RoBERTa and DistilBERT)
   - Seq2Seq encoder-decoder model
+  
+  ![](confself.PNG) \
+  ![](roberta.PNG) \
+  ![](distilbert.PNG) \
+  ![](selfgraph.PNG) \
   
 
   
