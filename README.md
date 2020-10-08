@@ -22,7 +22,7 @@
   RoBERTa Confusion Matrix \
   ![](roberta.PNG) \
   DistilBERT Matrix \
-  ![](distilbert.PNG) \
+  ![](distilbert.PNG)
   
   
 
