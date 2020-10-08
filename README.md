@@ -11,7 +11,7 @@
   
   ![](Self.png)
   
-  ![](confself.PNG)
+  ![](confself.PNG) \
   ![](selfgraph.PNG)
 
   
