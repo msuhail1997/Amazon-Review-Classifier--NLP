@@ -10,6 +10,7 @@
   
   
   ![](Self attention.png)
+  ![](7.6.1.png)
   
   
   - BERT models (RoBERTa and DistilBERT)
