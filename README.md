@@ -19,10 +19,15 @@
   - Seq2Seq encoder-decoder model \ 
   
   Self Attention Confusion Matrix \
+  
   ![](confself.PNG) \
+  
   RoBERTa Confusion Matrix \
+  
   ![](roberta.PNG) \
+  
   DistilBERT Matrix \
+  
   ![](distilbert.PNG)
   
   
