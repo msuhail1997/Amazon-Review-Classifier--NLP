@@ -6,7 +6,7 @@
 
 -The models implemented were
   - LogReg
-  - Self Attention with LSTM, BiLSTM, GRU, RNN
+  - Self Attention with LSTM, BiLSTM, GRU, RNN \
   
   
   ![](Self.png)
@@ -16,7 +16,7 @@
   
   
   - BERT models (RoBERTa and DistilBERT)
-  - Seq2Seq encoder-decoder model
+  - Seq2Seq encoder-decoder model \
   Self Attention Confusion Matrix
   ![](confself.PNG) \
   RoBERTa Confusion Matrix
