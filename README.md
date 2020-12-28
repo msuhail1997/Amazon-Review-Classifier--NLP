@@ -32,13 +32,13 @@
   
   RoBERTa Confusion Matrix 
   
-  
+  <img src="roberta.PNG" width="100" height="100"/>
   ![](roberta.PNG | width =100) 
   
   
   DistilBERT Matrix 
   
-  
+   <img src="distilbert.PNG" width="100" height="100"/>
   ![](distilbert.PNG | width =100 )
   
   
