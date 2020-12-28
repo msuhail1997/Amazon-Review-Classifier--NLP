@@ -21,23 +21,25 @@
   
   
   
-## Results
+## Results (Confusion Matrices)
   
   
-  Self Attention Confusion Matrix 
+  Self Attention Model
   
   
   <img src="confself.PNG" width="400" height="400"/>
 
 
   
-  RoBERTa Confusion Matrix 
+  RoBERTa 
+  
   
   <img src="roberta.PNG" width="400" height="400"/>
 
   
   
-  DistilBERT Matrix 
+  DistilBERT
+  
   
    <img src="distilbert.PNG" width="400" height="400"/>
 
