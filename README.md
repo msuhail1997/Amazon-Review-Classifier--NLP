@@ -1,4 +1,4 @@
-# Amazon Review Classifier -Pytorch
+# NLP (Amazon Review Classifier) -Pytorch
 
 -The folder contains a Python notebook file which can be run in Google Colab.
 
