@@ -17,7 +17,7 @@
   
   - BERT models (RoBERTa and DistilBERT)
 
-Amazoan reviews were summarized using the following model
+Amazon reviews were summarized using the following model
   - Seq2Seq encoder-decoder
   
   
