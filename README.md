@@ -16,7 +16,9 @@
   
   
   - BERT models (RoBERTa and DistilBERT)
-  - Seq2Seq encoder-decoder model 
+
+Amazoan reviews were summarized using the following model
+  - Seq2Seq encoder-decoder
   
   
   
