@@ -3,11 +3,11 @@
 - Amazon reviews were classified as rating scores between 1-5.
     The below models were used for classification
   
-      - LogReg
+       LogReg
   
-      - Self Attention with LSTM, BiLSTM, GRU, RNN
+       Self Attention with LSTM, BiLSTM, GRU, RNN
   
-      - BERT models (RoBERTa and DistilBERT)
+       BERT models (RoBERTa and DistilBERT)
 
 - Amazon reviews were summarized using the Seq2Seq encoder-decoder.
   
