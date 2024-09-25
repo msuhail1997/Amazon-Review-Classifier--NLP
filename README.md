@@ -22,21 +22,21 @@ Amazon reviews were summarized using the following model
 ## Results (Confusion Matrices)
   
   
-  Self Attention Model
+  - Self Attention Model
   
   
   <img src="confself.PNG" width="400" height="400"/>
 
 
   
-  RoBERTa 
+  - RoBERTa 
   
   
   <img src="roberta.PNG" width="400" height="400"/>
 
   
   
-  DistilBERT
+  - DistilBERT
   
   
    <img src="distilbert.PNG" width="400" height="400"/>
