@@ -1,4 +1,4 @@
-# Amazon Reviews Classifier - Pytorch (NLP)
+# Amazon Reviews Classifier (NLP)
 
 - Amazon reviews were classified as rating scores between 1-5.
     The below models were used for classification
