@@ -25,21 +25,21 @@ Amazon reviews were summarized using the following model
   - Self Attention Model
   
   
-  <img src="confself.PNG" width="400" height="400"/>
+  <img src="confself.PNG" width="200" height="200"/>
 
 
   
   - RoBERTa 
   
   
-  <img src="roberta.PNG" width="400" height="400"/>
+  <img src="roberta.PNG" width="200" height="200"/>
 
   
   
   - DistilBERT
   
   
-   <img src="distilbert.PNG" width="400" height="400"/>
+   <img src="distilbert.PNG" width="200" height="200"/>
 
   
   
