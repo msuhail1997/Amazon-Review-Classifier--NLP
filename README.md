@@ -1,8 +1,8 @@
 # Amazon Reviews Classifier - Pytorch (NLP)
 
--Amazon reviews were classified as rating scores between 1-5.
+- Amazon reviews were classified as rating scores between 1-5.
 
--The models implemented were
+- The models implemented were
   - LogReg
   - Self Attention with LSTM, BiLSTM, GRU, RNN.
   
