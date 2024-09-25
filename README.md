@@ -7,8 +7,6 @@
   - Self Attention with LSTM, BiLSTM, GRU, RNN.
   
   
-  ![](Self.png)
-  
 
 
   
