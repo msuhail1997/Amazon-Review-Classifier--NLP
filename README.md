@@ -1,20 +1,12 @@
 # Amazon Reviews Classifier - Pytorch (NLP)
 
 - Amazon reviews were classified as rating scores between 1-5.
+    The below models were used for classification
+      - LogReg
+      - Self Attention with LSTM, BiLSTM, GRU, RNN.
+      - BERT models (RoBERTa and DistilBERT)
 
-- The models implemented were
-  - LogReg
-  - Self Attention with LSTM, BiLSTM, GRU, RNN.
-  
-  
-
-
-  
-  
-  - BERT models (RoBERTa and DistilBERT)
-
-Amazon reviews were summarized using the following model
-  - Seq2Seq encoder-decoder
+- Amazon reviews were summarized using the Seq2Seq encoder-decoder.
   
   
   
